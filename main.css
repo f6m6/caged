@@ -1,11 +1,12 @@
 body {
     text-align: center;
-    font-family: Palatino, serif;
+    font-family: Georgia, serif;
 }
 
 h1 {
-    font-size: 4em;
+    font-size: 5em;
     color: midnightblue;
+    font-weight: normal;
 }
 
 p { 
@@ -21,4 +22,10 @@ span#exercise {
 
 span#position {
     color: red;
+}
+
+button {
+    color: midnightblue;
+    font-size: 2em;
+    font-family: Georgia, serif;
 }
